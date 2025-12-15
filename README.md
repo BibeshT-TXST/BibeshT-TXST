@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I am Bibesh Timalsina
 
-<!--
-**BibeshT-TXST/BibeshT-TXST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Computer Science @ Texas State University**  
+ **TXST Library Systems Support Assistant**
 
-Here are some ideas to get you started:
+I’m passionate about **effective system design** and bringing scalable, reliable coding solutions to life. I focus on writing clean, maintainable code and following **strong Git practices** that help maintain code quality and team collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  What I Can Provide
+- **Develop React applications** with responsive and interactive UI  
+- **Integrate APIs** to connect frontend and backend seamlessly  
+- **Write clean, maintainable code** following best practices  
+- **Implement unit tests** to ensure code reliability  
+- **Use Docker** to containerize applications for consistent environments  
+- Maintain **strong Git workflows** for code quality and collaboration  
