@@ -44,7 +44,7 @@ Lately, I've been deep in the intersection of quantum physics and CS, there's so
 Full stack diabetic retinopathy classifier using **PyTorch + ResNet50** transfer learning on retinal fundus images.
 Containerized microservice architecture with **FastAPI, React, Node.js, PostgreSQL, Docker**.
 
-### 📦 Library Inventory System: Texas State University *(Internal · Beta)*
+### 📦 Library Inventory System: Texas State University *(Internal)*
 Full stack inventory management system for Texas State University Libraries **JavaScript, React, Node.js, PostgreSQL, MUI**, containerized with Docker.
 Currently in beta with 18/20 features validated. Includes Argon2 + pepper password security and CI/CD via GitHub Actions + Nginx.
 
