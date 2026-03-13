@@ -49,12 +49,6 @@ Containerized microservice architecture with **FastAPI, React, Node.js, PostgreS
 Full stack inventory management system for Texas State University Libraries **JavaScript, React, Node.js, Rest API, PostgreSQL, MUI**, containerized with Docker.
 Currently in beta with 18/20 features validated. Includes Argon2 + pepper password security and CI/CD via GitHub Actions + Nginx.
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BibeshT-TXST&theme=default&hide_border=true" height="165" />
-</p>
-
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibesh_Timalsina-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibesh-timalsina-a7a9482b9/)
