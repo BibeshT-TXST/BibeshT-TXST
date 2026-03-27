@@ -41,7 +41,7 @@ Lately, I've been deep in the intersection of quantum physics and CS, there's so
 
 ## Projects
 
-### 🔬 Sight X: Clinical Screening System *(Active)*
+### 🔬 Sight X: Clinical Screening System
 Full stack diabetic retinopathy classifier using **PyTorch + ResNet50** transfer learning on retinal fundus images.
 Containerized microservice architecture with **FastAPI, React, Node.js, PostgreSQL, Docker**.
 
