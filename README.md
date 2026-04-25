@@ -46,7 +46,7 @@ Lately, I've been deep in the intersection of HealthCare and CS, there's somethi
 
 ## Projects
 
-### 🔬 Sight X: Clinical Screening System (V1 Completed)
+### 🔬 Sight X: Clinical Screening System *(V1 Completed)*
 Full stack diabetic retinopathy classifier using **PyTorch + ResNet50** transfer learning on retinal fundus images.
 Containerized microservice architecture with **FastAPI, React, Node.js, PostgreSQL, Docker**.
 
