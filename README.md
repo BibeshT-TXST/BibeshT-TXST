@@ -1,13 +1,13 @@
 # Hey, I'm Bibesh 👋
 
-**Student Software Developer** @ Texas State University Libraries &nbsp;·&nbsp; CS + Applied ML + Full Stack Systems
+**Student Software Developer** @ Texas State University Libraries &nbsp;·&nbsp; Full Stack Systems + DevOps + Applied Machine Learning + AWS CLoud
 
 I build full stack systems, dig into ML, and have a habit of either going completely blank on an idea or turning it into a 6-hour presentation. No in-between.(ツ)_/¯
 
-Lately, I've been deep in the intersection of quantum physics and CS, there's something uniquely fascinating about problems that sit right on that edge. 🔭
+Lately, I've been deep in the intersection of HealthCare and CS, there's something uniquely fascinating about solving problems that sit right on that edge. 🔭
 
 <p align="center">
-  <img src="https://cdn.mos.cms.futurecdn.net/LqdSSqy5A2Snp7Fcy6MUHd-970-80.jpg.webp" width="100%" alt="Quantum" />
+  <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/04/Personalized-Medicine-4.png" />
 </p>
 
 ## Skills
