@@ -65,5 +65,5 @@ Includes Argon2 + pepper password security and CI/CD via GitHub Actions + Nginx.
 ## Fun Facts About Me
 
 - ☢️ My idea of "light reading" involves deep-diving into the history of mid-century nuclear reactors. 
-- 🍎 I spent part of my late teens working as a private tutor for middle school students—which honestly required way more patience than any engineering problem -_- .
-- 🕵️‍♂️ I love cooking.
+- 🍎 I spent part of my late teens working as a private tutor for middle school students, which honestly required way more patience than any engineering problem -_- .
+- 🕵️‍♂️ I love cooking pasta.
