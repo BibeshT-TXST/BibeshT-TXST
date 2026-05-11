@@ -1,6 +1,6 @@
 # Hey, I'm Bibesh 👋
 
-**Student Software Developer** @ Texas State University Libraries &nbsp;·&nbsp; Full Stack Systems + DevOps + Applied Machine Learning + AWS CLoud
+**Student Employee** @ Texas State University Libraries &nbsp;·&nbsp; Full Stack Systems + DevOps + Applied Machine Learning + AWS CLoud
 
 I build full stack systems, dig into ML, and have a habit of either going completely blank on an idea or turning it into a 6-hour presentation. No in-between.(ツ)_/¯
 
