@@ -56,8 +56,7 @@ Full-Stack asset management system for Texas State University Libraries. Built w
 
 [Update Version-2: Currently migrating the application to to use typescript in next.js for frontend, using postman to evaluate existing REST API's and integrate them to the frontend, transitioning from PostgreSQL container Database to University libraries centralized database. Reconfiguring deployment pipeline to a more secure and centralized Live RHEL server] 
 
-## Get in Touch
-Lets have a talk over some coffee!
+## Lets have a conversation over some coffee!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibesh_Timalsina-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibesh-timalsina-a7a9482b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-BibeshT--TXST-181717?style=flat&logo=github)](https://github.com/BibeshT-TXST)
 [![Email](https://img.shields.io/badge/Email-timalsinabibesh747@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:timalsinabibesh747@gmail.com)
