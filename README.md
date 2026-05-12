@@ -1,10 +1,10 @@
 # Hey, I'm Bibesh 👋
 
-**Student Worker** @ Texas State University Libraries &nbsp;·&nbsp; Full Stack Systems + DevOps + Applied Machine Learning + AWS CLoud
+I am a **Junior** Computer Science Student at Texas State University and **Student Worker** @University Libraries Systems Team. I have experience with **Full-Stack Systems**, **DevOps**, **Applied Machine Learning** and I am actively learning **AWS Cloud Services** and **Observability Metrics**.
 
-I build full stack systems, dig into ML, and have a habit of either going completely blank on an idea or turning it into a 6-hour presentation. No in-between.(ツ)_/¯
+At work I build Full-Stack systems, write Unit & Integration tests, add observability metrics and configure CI/CD pipelines to university RHEL servers via github actions, under the supervision of my supervisors. For personal projects I focus more on Applied Machine Learning, Inference and AWS Cloud services. 
 
-Lately, I've been deep in the intersection of HealthCare and CS, there's something uniquely fascinating about solving problems that sit right on that frontier.
+Lately, I've been deep in the intersection of HealthCare and CS, specifically in the area of **Secure Inference Architectures**. My personal project **SightX** currently in **Version1** is built around the core idea of secure inference, however It has a hybrid architecture where it uses **SupaBase** for **Authentication** and **Data Storage**. 
 
 <p align="center">
   <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/04/Personalized-Medicine-4.png" />
@@ -46,24 +46,24 @@ Lately, I've been deep in the intersection of HealthCare and CS, there's somethi
 
 ## Projects
 
-### 🔬 Sight X: Clinical Screening System *(V1 Completed)*
-Full stack diabetic retinopathy classifier using **PyTorch + ResNet50** transfer learning on retinal fundus images.
-Containerized microservice architecture with **FastAPI, React, Node.js, PostgreSQL, Docker**.
+### 🔬 Sight X: Clinical Screening System: **(Public Version-1: Completed)**
+Full stack Diabetic Retinopathy Classification software built using **PyTorch + ResNet50** transfer learning on retinal fundus images.
+Containerized microservice architecture with **FastAPI, React, Node.js, PostgreSQL, Docker** and **SupaBase** for **Authentication** and **Data Storage**.
 
-### 📦 Library Inventory System: Texas State University *(Internal V2 Active)*
-Full stack inventory management system for Texas State University Libraries **JavaScript, React, Node.js, Rest API, PostgreSQL, MUI**, containerized with Docker.
-Includes Argon2 + pepper password security and CI/CD via GitHub Actions + Nginx.
+### 📦 UL Asset Management System: Texas State University **(Internal Version-2: Active)**
+Full-Stack asset management system for Texas State University Libraries. Built with **JavaScript, React, Node.js, Rest API, PostgreSQL, MUI** and containerized with Docker. Includes **Argon2 + pepper** password security, **NGINX** as a loadbalancer and a **CI/CD** pipeline via **GitHub Actions** to University Test **RHEL Server**.
+[RHEL: Red Hat Enterprise Linux]
 
-[Update V2: Currently migrating the application to to use typescript in next.js for frontend, using postman to evaluate existing REST API's and integrate them to the frontend, transitioning from PostgreSQL container Database to University libraries centralized database. Reconfiguring deployment pipeline to a more secure and centralized internal RHEL server] 
+[Update Version-2: Currently migrating the application to to use typescript in next.js for frontend, using postman to evaluate existing REST API's and integrate them to the frontend, transitioning from PostgreSQL container Database to University libraries centralized database. Reconfiguring deployment pipeline to a more secure and centralized Live RHEL server] 
 
 ## Get in Touch
-
+Lets have a talk over some coffee!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibesh_Timalsina-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibesh-timalsina-a7a9482b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-BibeshT--TXST-181717?style=flat&logo=github)](https://github.com/BibeshT-TXST)
 [![Email](https://img.shields.io/badge/Email-timalsinabibesh747@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:timalsinabibesh747@gmail.com)
 
 ## Fun Facts About Me
 
-- ☢️ My idea of "light reading" involves deep-diving into the history of mid-century nuclear reactors. 
-- 🍎 I spent part of my late teens working as a private tutor for middle school students, which honestly required way more patience than any engineering problem -_- .
-- 🕵️‍♂️ I love cooking pasta.
+-  I was a Research coach for nearly two years where I helped students find research materials for their projects, this job taught me that communication is key. 
+-  I spent part of my late teens working as a private tutor for middle school students, which honestly required way more patience than any engineering problem -_- .
+-  I am a pro agentic developer but I always go back to DSA and foundations as understanding code clearly is more important than shipping faster.
