@@ -1,68 +1,126 @@
-# Hey, I'm Bibesh 👋
+<div align="center">
 
-I am a **Junior** Computer Science Student at Texas State University and **Student Worker** @University Libraries Systems Team. I have experience with **Full-Stack Systems**, **DevOps**, **Applied Machine Learning** and I am actively learning **AWS Cloud Services** and **Observability Metrics**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Bibesh+%F0%9F%91%8B;CS+%40+Texas+State+University;Full-Stack+%2B+Applied+ML;Atomic+Commits+%3E+Atomic+Habits+%3AP)](https://git.io/typing-svg)
 
-At work I build Full-Stack systems, write Unit & Integration tests, add observability metrics and configure CI/CD pipelines to university RHEL servers via github actions, under the supervision of my supervisors. For personal projects I focus more on Applied Machine Learning, Inference and AWS Cloud services. 
+<br/>
 
-Lately, I've been deeply interested in the area of **Secure Inference Architectures**. My personal project **SightX** currently in **Version1** is built around the core idea of secure inference, however It has a hybrid architecture where it uses **SupaBase** for **Authentication** and **Data Storage**. 
+**CS Junior at Texas State · Student Worker @ UL Syetems**  
+I build systems at work and train models at home. Currently deep in health tech and (somehow) quantum ML.
 
-<p align="center">
-  <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/04/Personalized-Medicine-4.png" />
-</p>
+<br/>
 
-## Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibesh_Timalsina-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibesh-timalsina-a7a9482b9/)
+[![Blog](https://img.shields.io/badge/Blog-Dark_Matters_Tech-FF6C37?style=flat-square&logo=blogger&logoColor=white)](https://darkmatterstech.blogspot.com/)
+[![Email](https://img.shields.io/badge/Email-timalsinabibesh747@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:timalsinabibesh747@gmail.com)
 
-**Languages**
+</div>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## What I do
 
-**Frameworks & Libraries**
+At work, I'm part of the Texas State University Libraries Systems Team. I build full-stack features, write unit and integration tests, set up CI/CD pipelines to university RHEL servers, and add observability metrics in a real production environment.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+Outside of work, I focus on applied ML and health tech. Right now I'm drawn to **secure inference** i.e. how clinical AI can be practical and trustworthy at the same time.
 
-**Tools & Platforms**
+## 2026 Activity
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+> **1,000+ commits in 5 months** : across both public personal projects and internal university systems.
+
+<div align="center">
+
+![Commits](https://img.shields.io/badge/Jan%E2%80%93May_2025-1%2C000%2B_Commits-3fb950?style=for-the-badge&logo=git&logoColor=white)
+![Projects](https://img.shields.io/badge/Active_Projects-3-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BibeshT-TXST&theme=github-dark-blue&hide_border=true)](https://github.com/BibeshT-TXST)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BibeshT-TXST&theme=github-compact&hide_border=true&area=true&area_color=58a6ff)](https://github.com/BibeshT-TXST)
+
+</div>
 
 ## Projects
 
-### 🔬 Sight X: Clinical Screening System: **(Public Version-1: Completed)**
-Full stack Diabetic Retinopathy Classification software built using **PyTorch + ResNet50** transfer learning on retinal fundus images.
-Containerized microservice architecture with **FastAPI, React, Node.js, PostgreSQL, Docker** and **SupaBase** for **Authentication** and **Data Storage**.
+### 🔬 SightX &nbsp;·&nbsp; `Feb – Apr 2025` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/)
 
-### 📦 UL Asset Management System: Texas State University **(Internal Version-2: Active)**
-Full-Stack asset management system for Texas State University Libraries. Built with **JavaScript, React, Node.js, Rest API, PostgreSQL, MUI** and containerized with Docker. Includes **Argon2 + pepper** password security, **NGINX** as a loadbalancer and a **CI/CD** pipeline via **GitHub Actions** to University Test **RHEL Server**.
-[RHEL: Red Hat Enterprise Linux]
+A clinical AI screening tool for **diabetic retinopathy**: A leading cause of preventable blindness that often shows no symptoms until too late.
 
-[Update Version-2: Currently migrating the application to to use typescript in next.js for frontend, using postman to evaluate existing REST API's and integrate them to the frontend, transitioning from PostgreSQL container Database to University libraries centralized database. Reconfiguring deployment pipeline to a more secure and centralized Live RHEL server] 
+- Trained **ResNet-50** via transfer learning to classify retinal fundus images across **5 severity grades**
+- End-to-end microservice stack: **React → Node.js → FastAPI → PostgreSQL**, containerized with Docker
+- Built with a personal reason: diabetes runs in my family
 
-## Lets have a conversation over some coffee!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bibesh_Timalsina-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibesh-timalsina-a7a9482b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-BibeshT--TXST-181717?style=flat&logo=github)](https://github.com/BibeshT-TXST)
-[![Email](https://img.shields.io/badge/Email-timalsinabibesh747@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:timalsinabibesh747@gmail.com)
+`PyTorch` `ResNet-50` `FastAPI` `React` `Node.js` `PostgreSQL` `Docker` `Supabase`
 
-## Fun Facts About Me
+### ⚛️ PlateauX &nbsp;·&nbsp; `Mar 2025 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/PlateauX)
 
--  I was a Research coach for nearly two years where I helped students find research materials for their projects, this job taught me that communication is key. 
--  I spent part of my late teens working as a private tutor for middle school students, which honestly required way more patience than any engineering problem -_- .
--  I am a pro agentic developer but I always go back to DSA and foundations as understanding code clearly is more important than shipping faster.
+A toolkit for diagnosing and fixing **barren plateaus** in quantum ML circuits: The problem where quantum models train but stop improving.
+
+- Early-stage; actively building diagnostic utilities and mitigation strategies
+- Sits at the cross-section of quantum physics and classical ML optimization, genuinely uncharted territory for me
+
+`Python` `Quantum ML` `PennyLane`
+
+### 🏛️ UL Asset Management System &nbsp;·&nbsp; Texas State University Libraries &nbsp;*(Internal)*
+
+Production asset management system used by the university libraries team. I'm the primary developer on V2.
+
+- Rebuilt frontend in **Next.js (TypeScript)**; migrated from a Dockerized PostgreSQL container to the university's centralized DB
+- Deployed via **GitHub Actions → RHEL** production server; **NGINX** load balancer; **Argon2 + pepper** auth
+- **V1** live and in use · **V2** actively in development
+
+`TypeScript` `Next.js` `Node.js` `PostgreSQL` `Docker` `NGINX` `GitHub Actions`
+
+## Stack
+ 
+**Programming Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+ 
+**Frontend**
+ 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+ 
+**Backend**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+ 
+**Machine Learning**
+ 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+ 
+**DevOps**
+ 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_RHEL-FCC624?style=flat-square&logo=linux&logoColor=black)
+ 
+**Exploring**
+ 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/Quantum_ML-6E40C9?style=flat-square&logo=atom&logoColor=white)
+
+
+## A bit more
+
+- Spent ~2 years as a research coach at the university. Helping students find what they need taught me that clear communication is its own kind of skill.
+- Former middle school math tutor. Engineering problems are usually easier (usually).
+- I go back to DSA and first principles often. Understanding code matters more than shipping fast — though both matter.
+
+<div align="center">
+<sub><i>Atomic Commits > Atomic Habits :P</i></sub>
+</div>
