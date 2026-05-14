@@ -4,7 +4,7 @@ I am a **Junior** Computer Science Student at Texas State University and **Stude
 
 At work I build Full-Stack systems, write Unit & Integration tests, add observability metrics and configure CI/CD pipelines to university RHEL servers via github actions, under the supervision of my supervisors. For personal projects I focus more on Applied Machine Learning, Inference and AWS Cloud services. 
 
-Lately, I've been deep in the intersection of HealthCare and CS, specifically in the area of **Secure Inference Architectures**. My personal project **SightX** currently in **Version1** is built around the core idea of secure inference, however It has a hybrid architecture where it uses **SupaBase** for **Authentication** and **Data Storage**. 
+Lately, I've been deeply interested in the area of **Secure Inference Architectures**. My personal project **SightX** currently in **Version1** is built around the core idea of secure inference, however It has a hybrid architecture where it uses **SupaBase** for **Authentication** and **Data Storage**. 
 
 <p align="center">
   <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/04/Personalized-Medicine-4.png" />
