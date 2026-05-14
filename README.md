@@ -42,7 +42,7 @@ Outside of work, I focus on applied ML and health tech. Right now I'm drawn to *
 
 ## Projects
 
-### 🔬 SightX &nbsp;·&nbsp; `Feb – Apr 2025` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/)
+### 🔬 SightX &nbsp;·&nbsp; `Feb – Apr 2026` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/)
 
 A clinical AI screening tool for **diabetic retinopathy**: A leading cause of preventable blindness that often shows no symptoms until too late.
 
@@ -52,7 +52,7 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 
 `PyTorch` `ResNet-50` `FastAPI` `React` `Node.js` `PostgreSQL` `Docker` `Supabase`
 
-### ⚛️ PlateauX &nbsp;·&nbsp; `Mar 2025 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/PlateauX)
+### ⚛️ PlateauX &nbsp;·&nbsp; `May 2026 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/PlateauX)
 
 A toolkit for diagnosing and fixing **barren plateaus** in quantum ML circuits: The problem where quantum models train but stop improving.
 
