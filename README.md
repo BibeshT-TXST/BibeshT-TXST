@@ -5,7 +5,7 @@
 <br/>
 
 **CS Junior at Texas State · Student Worker @ UL Syetems**  
-I build systems at work and train models at home. Currently deep in health tech and (somehow) quantum ML.
+I build systems at work and train models at home. Currently deep in secure inference and (somehow) quantum ML.
 
 <br/>
 
