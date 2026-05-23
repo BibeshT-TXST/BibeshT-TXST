@@ -23,7 +23,7 @@ Outside of work, I focus on applied ML and health tech. Right now I'm drawn to *
 
 ## 2026 Activity
 
-> **1,000+ commits in 5 months** : across both public personal projects and internal university systems.
+> **1,000+ commits** : across both public personal projects and internal university systems.
 
 <div align="center">
 
