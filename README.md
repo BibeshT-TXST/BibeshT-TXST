@@ -23,8 +23,6 @@ Outside of work, I focus on applied ML and health tech. Right now I'm drawn to *
 
 ## 2026 Activity
 
-> **1,000+ commits** : across both public personal projects and internal university systems.
-
 <div align="center">
 
 ![Commits](https://img.shields.io/badge/Jan%E2%80%93May_2025-1%2C000%2B_Commits-3fb950?style=for-the-badge&logo=git&logoColor=white)
