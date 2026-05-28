@@ -4,7 +4,7 @@
 
 <br/>
 
-**CS Junior at Texas State · Student Worker @ UL Syetems**  
+**Computer Science Junior at Texas State University · Student Worker @ UL Syetems**  
 I build systems at work and train models at home. Currently deep in secure inference and (somehow) quantum ML.
 
 <br/>
