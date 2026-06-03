@@ -21,11 +21,11 @@ At work, I'm part of the Texas State University Libraries Systems Team. I build 
 
 Outside of work, I focus on applied ML and health tech. Right now I'm drawn to **secure inference** i.e. how clinical AI can be practical and trustworthy at the same time.
 
-## 2026 Activity
+## Activity
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Jan%E2%80%93May_2025-1%2C000%2B_Commits-3fb950?style=for-the-badge&logo=git&logoColor=white)
+![Commits](https://img.shields.io/badge/2026-1%2C000%2B_Commits-3fb950?style=for-the-badge&logo=git&logoColor=white)
 ![Projects](https://img.shields.io/badge/Active_Projects-3-58a6ff?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
