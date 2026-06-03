@@ -30,10 +30,6 @@ Outside of work, I focus on applied ML and health tech. Right now I'm drawn to *
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BibeshT-TXST&theme=github-dark-blue&hide_border=true)](https://github.com/BibeshT-TXST)
-
-<br/>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BibeshT-TXST&theme=github-compact&hide_border=true&area=true&area_color=58a6ff)](https://github.com/BibeshT-TXST)
 
 </div>
