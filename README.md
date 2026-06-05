@@ -28,10 +28,6 @@ Outside of work, I focus on applied ML and health tech. Right now I'm drawn to *
 ![Commits](https://img.shields.io/badge/2026-1%2C000%2B_Commits-3fb950?style=for-the-badge&logo=git&logoColor=white)
 ![Projects](https://img.shields.io/badge/Active_Projects-3-58a6ff?style=for-the-badge&logo=github&logoColor=white)
 
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BibeshT-TXST&theme=github-compact&hide_border=true&area=true&area_color=58a6ff)](https://github.com/BibeshT-TXST)
-
 </div>
 
 ## Projects
