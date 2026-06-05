@@ -52,14 +52,17 @@ A toolkit for diagnosing and fixing **barren plateaus** in quantum ML circuits: 
 `Python` `Quantum ML` `PennyLane`
 
 ### 🏛️ UL Asset Management System &nbsp;·&nbsp; Texas State University Libraries &nbsp;*(Internal)*
-
 Production asset management system used by the university libraries team. I'm the primary developer on V2.
-
-- Rebuilt frontend in **Next.js (TypeScript)**; migrated from a Dockerized PostgreSQL container to the university's centralized DB
-- Deployed via **GitHub Actions → RHEL** production server; **NGINX** load balancer; **Argon2 + pepper** auth
+- Rebuilt frontend in **Next.js (TypeScript)**; migrated from a Dockerized PostgreSQL container to the university's centralized Database.
+- Deployed to the university's secure internal **RHEL** server through **GitHub Actions** CI/CD, load-balanced with **NGINX**, and secured with **Argon2 + pepper** password hashing
+- Co-Designed and built a **reusable component library** with **Storybook** — includes Calendar (multi-day event segments, row-overflow expansion), SideNavigation and Custom Content Display Cards.
+- Created **custom error pages from scratch** (404, 500, 502, 504) with responsive layouts — live across Library systems.
+- Built an **inventory management dashboard** with editable MUI DataGrid, dynamic API-driven dropdowns, debounced search, and async row-update persistence
+- Implemented **cookie-based JWT auth flow** with login guards, session management, and centralized API service layer
+- Component testing with **Vitest + Playwright**; visual/interaction testing via **Storybook**
 - **V1** live and in use · **V2** actively in development
 
-`TypeScript` `Next.js` `Node.js` `PostgreSQL` `Docker` `NGINX` `GitHub Actions`
+`TypeScript` `Next.js` `Node.js` `PostgreSQL` `Docker` `NGINX` `GitHub Actions` `Storybook` `Vitest` `Tailwind CSS` `Radix UI` `MUI` `Figma`
 
 ## Stack
  
@@ -99,9 +102,7 @@ Production asset management system used by the university libraries team. I'm th
 ![Linux](https://img.shields.io/badge/Linux_RHEL-FCC624?style=flat-square&logo=linux&logoColor=black)
  
 **Exploring**
- 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
 ![Quantum ML](https://img.shields.io/badge/Quantum_ML-6E40C9?style=flat-square&logo=atom&logoColor=white)
 
 
