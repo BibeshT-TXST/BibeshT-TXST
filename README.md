@@ -26,7 +26,7 @@ Outside of work, I focus on applied ML and health tech. Right now I'm drawn to *
 <div align="center">
 
 ![Commits](https://img.shields.io/badge/2026-1%2C000%2B_Commits-3fb950?style=for-the-badge&logo=git&logoColor=white)
-![Projects](https://img.shields.io/badge/Active_Projects-3-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Projects](https://img.shields.io/badge/Active_Personal_Projects-3-58a6ff?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
