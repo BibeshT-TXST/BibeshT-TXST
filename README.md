@@ -5,7 +5,7 @@
 <br/>
 
 **Computer Science Junior at Texas State University · Student Worker @ UL Syetems**  
-I build systems at work and train models at home. Currently deep in secure inference and (somehow) quantum ML.
+I build systems at work and train models at home. Currently deep in secure inference and backend architectures.
 
 <br/>
 
@@ -19,7 +19,7 @@ I build systems at work and train models at home. Currently deep in secure infer
 
 At work, I'm part of the Texas State University Libraries Systems Team. I build full-stack features, write unit and integration tests, set up CI/CD pipelines to university RHEL servers, and add observability metrics in a real production environment.
 
-Outside of work, I focus on applied ML and health tech. Right now I'm drawn to **secure inference** i.e. how clinical AI can be practical and trustworthy at the same time.
+Outside of work, I focus on inference architectures and backend. Right now I'm drawn to **secure inference** specifically.
 
 ## Activity
 
@@ -41,15 +41,6 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 - Built with a personal reason: diabetes runs in my family
 
 `PyTorch` `ResNet-50` `FastAPI` `React` `Node.js` `PostgreSQL` `Docker` `Supabase`
-
-### ⚛️ PlateauX &nbsp;·&nbsp; `May 2026 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/PlateauX)
-
-A toolkit for diagnosing and fixing **barren plateaus** in quantum ML circuits: The problem where quantum models train but stop improving.
-
-- Early-stage; actively building diagnostic utilities and mitigation strategies
-- Sits at the cross-section of quantum physics and classical ML optimization, genuinely uncharted territory for me
-
-`Python` `Quantum ML` `PennyLane`
 
 ### 🏛️ UL Asset Management System &nbsp;·&nbsp; Texas State University Libraries &nbsp;*(Internal)*
 Production asset management system used by the university libraries team. I'm the primary developer on V2.
