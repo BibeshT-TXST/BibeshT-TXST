@@ -32,7 +32,7 @@ Outside of work, I focus on inference architectures and backend. Right now I'm d
 
 ## Projects
 
-### 🔬 SightX &nbsp;·&nbsp; `Feb – Apr 2026` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/)
+### 🔬 SightX &nbsp;·&nbsp; `Feb 2026 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/)
 
 A clinical AI screening tool for **diabetic retinopathy**: A leading cause of preventable blindness that often shows no symptoms until too late.
 
@@ -42,7 +42,7 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 
 `PyTorch` `ResNet-50` `FastAPI` `React` `Node.js` `PostgreSQL` `Docker` `Supabase`
 
-### 🏛️ UL Asset Management System &nbsp;·&nbsp; Texas State University Libraries &nbsp;*(Internal)*
+### 🏛️ UL Asset Management System &nbsp;·&nbsp; Texas State University Libraries  &nbsp;·&nbsp; `Dec 2025 – Present` &nbsp;*(Internal)*
 Production asset management system used by the university libraries team. I'm the primary developer on V2.
 - Rebuilt frontend in **Next.js (TypeScript)**; migrated from a Dockerized PostgreSQL container to the university's centralized Database.
 - Deployed to the university's secure internal **RHEL** server through **GitHub Actions** CI/CD, load-balanced with **NGINX**, and secured with **Argon2 + pepper** password hashing
