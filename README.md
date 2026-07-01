@@ -4,7 +4,7 @@
 
 <br/>
 
-**Computer Science Junior at Texas State University · Student Worker @ UL Syetems**  
+**Computer Science Junior at Texas State University · Student Worker @ UL Systems**  
 I build systems at work and train models at home. Currently deep in secure inference and backend architectures.
 
 <br/>
