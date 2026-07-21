@@ -42,16 +42,28 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 
 `PyTorch` `ResNet-50` `FastAPI` `React` `Node.js` `PostgreSQL` `Docker` `Supabase`
 
-### 🏛️ UL Asset Management System &nbsp;·&nbsp; Texas State University Libraries  &nbsp;·&nbsp; `Dec 2025 – Present` &nbsp;*(Internal)*
-Production asset management system used by the university libraries team. I'm the primary developer on V2.
-- Rebuilt frontend in **Next.js (TypeScript)**; migrated from a Dockerized PostgreSQL container to the university's centralized Database.
-- Deployed to the university's secure internal **RHEL** server through **GitHub Actions** CI/CD, load-balanced with **NGINX**, and secured with **Argon2 + pepper** password hashing
-- Co-Designed and built a **reusable component library** with **Storybook** — includes Calendar (multi-day event segments, row-overflow expansion), SideNavigation and Custom Content Display Cards.
-- Created **custom error pages from scratch** (404, 500, 502, 504) with responsive layouts — live across Library systems.
-- Built an **inventory management dashboard** with editable MUI DataGrid, dynamic API-driven dropdowns, debounced search, and async row-update persistence
-- Implemented **cookie-based JWT auth flow** with login guards, session management, and centralized API service layer
-- Component testing with **Vitest + Playwright**; visual/interaction testing via **Storybook**
-- **V1** live and in use · **V2** actively in development
+### Texas State University Libraries Systems Team &nbsp;·&nbsp; `Dec 2025 – Present` &nbsp;*(Internal)*
+#### Travel App Project `May 2026 - Present`
+- Building Fronted components using shadcn, typescript, next.js & Git.
+- Building Sandbox Backend & Database environemt using Api docs, Postgres, Typescript, Docker and testing endpoints using Postman. The snamdbox is used to test the components.
+
+#### TOPS Asset Management Web App `Feb 2026 - Present`
+- Building a live production Next.js TOPS Asset management web app for Texas State University Libraries, replacing a .exe application using Typescript, Next.js(React), REST APIs(Flask), PostgreSQL, Docker, Postman and Git.
+- Built a JWT cookie header based auth system with Next.js proxy + Argon2 client side hashing and session guards across all route groups.
+- Built a custom 14-column MUI-DataGrid component with inline row editing, debounced search, and batch edit/cancel.
+- Co-designed a SQL guardrail patching a live production data-integrity vulnerability in the exsiting Backend(Flask) by eliminating duplicate net-ID insertion using parameterized WHERE NOT EXISTS sub-queries.
+- Co-deployed TOPS Asset Management Web App to a TXST Red Hat Enterprise Linux test server via a custom Github Actions CI/CD pipeline with Linters, Dependency Tests, Unit Tests and Integration Tests.
+
+#### Project GitGud(OnBording Project #2) `Dec 2025 - Feb 2025`
+- Built a Book Inventory management web app using JavaScript, React, REST APIs, PostgreSQL, Docker and Git.
+- Built a JWT session storage based auth system with Argon2 client side hashing and session guards across all route groups.
+- Built a custom 5-column MUI-DataGrid component with inline row editing, debounced search, and batch edit/cancel and its CRUD routes in the backend.
+- Co-deployed the app to a TXST Red Hat Enterprise Linux test server via a custom Github Actions CI/CD pipeline with Dependency Tests and Unit Tests, under guidance of senior developer.
+
+#### Project Error Pages(OnBording Project #1) `Dec 2025 - Jan 2025`
+- Build 4 resuable error pages from scratch using HTML and CSS(Tailwind & BootStrap)
+- Customized CSS for each screen type mobile, tablet & Laptop so the pages are responsive.
+- Pages deployed to be used by any application under TXST network to replace generic error messages/pages.
 
 `TypeScript` `Next.js` `Node.js` `PostgreSQL` `Docker` `NGINX` `GitHub Actions` `Storybook` `Vitest` `Tailwind CSS` `Radix UI` `MUI` `Figma`
 
