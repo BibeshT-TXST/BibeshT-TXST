@@ -45,7 +45,7 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 ### Texas State University Libraries Systems Team &nbsp;·&nbsp; `Dec 2025 – Present` &nbsp;*(Internal)*
 #### Travel App Project `May 2026 - Present`
 - Building Fronted components using shadcn, typescript, next.js & Git.
-- Built a Sandbox Backend & Database environment using Api docs, Postgres, Typescript, Docker and testing endpoints using Postman. The snamdbox is used to test the components.
+- Built a Sandbox Backend & Database environment using Api docs, Postgres, Typescript, Docker and testing endpoints using Postman. The sandbox is used to test the components.
 
 #### TOPS Asset Management Web App `Feb 2026 - Present`
 - Building a live production Next.js TOPS Asset management web app for Texas State University Libraries, replacing a .exe application using Typescript, Next.js(React), REST APIs(Flask), PostgreSQL, Docker, Postman and Git.
