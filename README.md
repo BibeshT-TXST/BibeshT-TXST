@@ -104,11 +104,6 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_RHEL-FCC624?style=flat-square&logo=linux&logoColor=black)
  
-**Exploring**
-
-![Quantum ML](https://img.shields.io/badge/Quantum_ML-6E40C9?style=flat-square&logo=atom&logoColor=white)
-
-
 ## A bit more
 
 - Spent ~2 years as a research coach at the university. Helping students find what they need taught me that clear communication is its own kind of skill.
