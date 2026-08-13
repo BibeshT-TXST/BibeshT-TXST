@@ -45,6 +45,7 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 ### Texas State University Libraries Systems Team &nbsp;·&nbsp; `Dec 2025 – Present` &nbsp;*(Internal)*
 #### Travel App Project `May 2026 - Present`(V1 in active Development) 
 - Built services from issues the team assigns, if the specs in api-specs.yaml and the controller already exist then I implement the service; 20% of the time nothing exists in the backend, so I communicate with supervisors, update the schema and models, add the new api specs, and build the controller and the services.
+- Connecting a Texas State Azure Blob Storage service to the libraries travel app so staff can view unstructured files in the browser and  running + testing the containers in Microsoft Azure. 
 - Built fronted components using shadcn, typescript & next.js and and wiring them to the services.
 - Built a Sandbox Backend & Database network using Api docs, Postgres, Typescript, Docker and Postman to test endpoints.
 
