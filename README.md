@@ -55,13 +55,13 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 - Co-designed a SQL guardrail to patch a data-integrity vulnerability in the existing Backend(Flask) by eliminating duplicate net-ID insertion using parameterized WHERE NOT EXISTS sub-queries.
 - Co-deployed TOPS Asset Management Web App to a TXST Red Hat Enterprise Linux test server via a custom Github Actions CI/CD pipeline with Linters, Dependency Tests, Unit Tests and Integration Tests.
 
-#### Project GitGud(OnBording Project #2) `Dec 2025 - Feb 2025`(Completed)
+#### Project GitGud(OnBording Project #2) `Dec 2025 - May 2026`(Completed)
 - Built a Book Inventory management web app using JavaScript, React, REST APIs, PostgreSQL, Docker and Git.
 - Built a JWT session storage based auth system with Argon2 client side hashing and session guards across all route groups.
 - Built a custom 5-column MUI-DataGrid component with inline row editing, debounced search, and batch edit/cancel and its CRUD routes in the backend.
 - Co-deployed the app to a TXST Red Hat Enterprise Linux test server via a custom Github Actions CI/CD pipeline with Dependency Tests and Unit Tests, under guidance of senior developer.
 
-#### Project Error Pages(OnBording Project #1) `Dec 2025 - Jan 2025`(Completed)
+#### Project Error Pages(OnBording Project #1) `Dec 2025 - Jan 2026`(Completed)
 - Build 4 resuable error pages from scratch using HTML and CSS(Tailwind & BootStrap)
 - Customized CSS for each screen type mobile, tablet & Laptop so the pages are responsive.
 - Pages deployed to be used by any application under TXST network to replace generic error messages/pages.
