@@ -21,15 +21,6 @@ At work, I'm part of the Texas State University Libraries Systems Team. I build 
 
 Outside of work, I focus on inference architectures and backend. Right now I'm drawn to **secure inference** specifically.
 
-## Activity
-
-<div align="center">
-
-![Commits](https://img.shields.io/badge/2026-1%2C000%2B_Commits-3fb950?style=for-the-badge&logo=git&logoColor=white)
-![Projects](https://img.shields.io/badge/Active_Personal_Projects-3-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
 ## Projects
 
 ### 🔬 SightX &nbsp;·&nbsp; `Feb 2026 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/)
