@@ -17,9 +17,9 @@ I build systems at work and train models at home. Currently deep in secure infer
 
 ## What I do
 
-At work, I'm part of the Texas State University Libraries Systems Team. I build full-stack features, write unit and integration tests, set up CI/CD pipelines to university RHEL servers, and add observability metrics in a real production environment.
+Hi, I'm Bibesh, a Computer Science junior who is aspiring to be a Software Engineer. I love solving problems, optimizing existing solutions, improving throughput and eliminating backdoor variabilities. At TXST library I build and manage software used by the library employees. 
 
-Outside of work, I focus on inference architectures and backend. Right now I'm drawn to **secure inference** specifically.
+I am focusing on AI integration, Cloud services(AWS personally, Azure at Work), Backend, Deployment and Data Security but I also love to build frontend components, sandbox  environments and unit tests. I use claude code for researching and prototyping solutions only as I strive to maintain a clean codebase, good version control practices and ship maintainable code. .
 
 ## Personal Projects
 
@@ -38,15 +38,15 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 
 ### Texas State University Libraries Systems Team &nbsp;·&nbsp; `Dec 2025 – Present` &nbsp;*(Internal)*
 #### Travel App Project `May 2026 - Present`(V1 in active Development) 
-- Built services from issues the team assigns, if the specs in api-specs.yaml and the controller already exist then I implement the service; 20% of the time nothing exists in the backend, so I communicate with supervisors, update the schema and models, add the new api specs, and build the controller and the services.
-- Connecting a Texas State Azure Blob Storage service to the libraries travel app so staff can view unstructured files in the browser and  running + testing the containers in Microsoft Azure. 
-- Built fronted components using shadcn, typescript & next.js and and wiring them to the services.
-- Built a Sandbox Backend & Database network using Api docs, Postgres, Typescript, Docker and Postman to test endpoints.
+- Collaborate with 2 senior software engineers to build and maintain Open API specs, controllers and services in a MVC backend for the UL Travel App project used by 100+ library employees.
+- Building the storage feature for UL Travel App by connecting it to an Azure Blob Storage Service and auto-archiving to the university’s database when requests are approved. This hybrid storage approach was built to reduce cloud storage costs and increase data availability 
+- Built fronted components using shadcn, typescript & next.js and and wiring them to the backend services.
+- Built a Sandbox Backend & Database network using Api docs, MongoDB, Typescript, Docker and Postman to test endpoints.
 
 #### TOPS Asset Management Web App `Feb 2026 - Present`(V1 Live)(V2 In active Development)
-- Building a production TOPS Asset management web app for Texas State University Libraries, replacing a .exe application using Typescript, Next.js(React), REST APIs(Flask), PostgreSQL, Docker, Postman and Git.
+- Rebuilt an Inventory Management application to a TOPS Asset Management Web Application Secured behind TXST’s SSO. The application is built as 4 Docker container services: Nginx Load Balancer, Next.js Frontend, Flask Backend and PostgreSQL database
 - Built a JWT cookie header based auth system with Next.js proxy + Argon2 client side hashing and session guards across all route groups.
-- Co-designed a SQL guardrail to patch a data-integrity vulnerability in the existing Backend(Flask) by eliminating duplicate net-ID insertion using parameterized WHERE NOT EXISTS sub-queries.
+- Traced a data duplication error in a live Flask backend server and fixed it using WHERE NOT EXISTS subqueries
 - Co-deployed TOPS Asset Management Web App to a TXST Red Hat Enterprise Linux test server via a custom Github Actions CI/CD pipeline with Linters, Dependency Tests, Unit Tests and Integration Tests.
 
 #### Project GitGud(OnBording Project #2) `Dec 2025 - May 2026` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) (Completed)
@@ -60,7 +60,7 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 - Customized CSS for each screen type mobile, tablet & Laptop so the pages are responsive.
 - Pages deployed to be used by any application under TXST network to replace generic error messages/pages.
 
-`TypeScript` `Next.js` `Node.js` `PostgreSQL` `Docker` `NGINX` `GitHub Actions` `Storybook` `Vitest` `Tailwind CSS` `Radix UI` `MUI` `Figma`
+`TypeScript` `Next.js` `Node.js` `PostgreSQL` `MongoDB` `Azure Blob` `python` `flask` `Docker` `Docker Compose` `REST API` `MVC` `NGINX` `GitHub Actions` `Storybook` `Vitest` `Tailwind CSS` `Radix UI` `MUI` `Shad-cn` `Figma`
 
 ## Stack
  
