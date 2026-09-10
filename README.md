@@ -21,17 +21,20 @@ At work, I'm part of the Texas State University Libraries Systems Team. I build 
 
 Outside of work, I focus on inference architectures and backend. Right now I'm drawn to **secure inference** specifically.
 
-## Projects
+## Personal Projects
 
-### 🔬 SightX &nbsp;·&nbsp; `Feb 2026 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/)
+### 🔬 SightX &nbsp;·&nbsp; `Feb 2026 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/) (AWS Migration Ongoing)
 
 A clinical AI screening tool for **diabetic retinopathy**: A leading cause of preventable blindness that often shows no symptoms until too late.
 
-- Trained **ResNet-50** via transfer learning to classify retinal fundus images across **5 severity grades**
-- End-to-end microservice stack: **React → Node.js → FastAPI → PostgreSQL**, containerized with Docker
-- Built with a personal reason: diabetes runs in my family
 
-`PyTorch` `ResNet-50` `FastAPI` `React` `Node.js` `PostgreSQL` `Docker` `Supabase`
+- Trained a **ResNet-50** V2 diabetic retinopathy classifier on 35K retinal images and achieved kappa **κ = 0.8454** on a personal MacBook (Apple M4, no cloud compute) using CLAHE preprocessing, cosine annealing with warmup, and gradual unfreezing.
+- Built a post-processing safety pipeline using **temperature scaling**, **Bayesian prior correction**, and an asymmetric cost matrix that converts raw model logits into 3 actionable triage tiers.
+- Built a **108-iteration test-time augmentation ensemble** that runs stochastic transforms per inference pass and returns the modal prediction with averaged confidence, making the system robust to camera artifacts.
+- Built and shipped a 3-container Docker microservices stack (React, Node.js, FastAPI) with ephemeral in-memory image handling (no patient data written to disk), JWT + row-level security via Supabase, and a single-command deploy targeting Private Red Hat Enterprise Linux servers.
+- Currently deploying in AWS using **AWS CloudFront, Lambda, SQS, RDS, S3, IAM** and **VPC** and testing builds using **Local Stack**.
+
+`PyTorch` `ResNet-50` `FastAPI` `React` `Node.js` `PostgreSQL` `Docker` `Supabase` `AWS` `Microservices`
 
 ### Texas State University Libraries Systems Team &nbsp;·&nbsp; `Dec 2025 – Present` &nbsp;*(Internal)*
 #### Travel App Project `May 2026 - Present`(V1 in active Development) 
@@ -46,7 +49,7 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 - Co-designed a SQL guardrail to patch a data-integrity vulnerability in the existing Backend(Flask) by eliminating duplicate net-ID insertion using parameterized WHERE NOT EXISTS sub-queries.
 - Co-deployed TOPS Asset Management Web App to a TXST Red Hat Enterprise Linux test server via a custom Github Actions CI/CD pipeline with Linters, Dependency Tests, Unit Tests and Integration Tests.
 
-#### Project GitGud(OnBording Project #2) `Dec 2025 - May 2026`(Completed)
+#### Project GitGud(OnBording Project #2) `Dec 2025 - May 2026` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) (Completed)
 - Built a Book Inventory management web app using JavaScript, React, REST APIs, PostgreSQL, Docker and Git.
 - Built a JWT session storage based auth system with Argon2 client side hashing and session guards across all route groups.
 - Built a custom 5-column MUI-DataGrid component with inline row editing, debounced search, and batch edit/cancel and its CRUD routes in the backend.
