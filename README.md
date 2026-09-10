@@ -5,7 +5,7 @@
 <br/>
 
 **Computer Science Junior at Texas State University · Student Worker @ UL Systems**  
-I build systems at work and train models at home. Currently deep in secure inference and backend architectures.
+I build systems at work and train models at home. Currently deep in Backend Architectures, Cloud Systems Design(AWS) and Secure Large Language Model(LLM) and Convolution Neural Network(CVN) serving.
 
 <br/>
 
