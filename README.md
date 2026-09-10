@@ -23,7 +23,7 @@ Outside of work, I focus on inference architectures and backend. Right now I'm d
 
 ## Personal Projects
 
-### 🔬 SightX &nbsp;·&nbsp; `Feb 2026 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/) (AWS Migration Ongoing)
+### 🔬 SightX &nbsp;·&nbsp; `Feb 2026 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/) (V2: AWS Migration Ongoing)
 
 A clinical AI screening tool for **diabetic retinopathy**: A leading cause of preventable blindness that often shows no symptoms until too late.
 
