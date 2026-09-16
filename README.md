@@ -40,7 +40,7 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 #### Travel App Project `May 2026 - Present`(V1 in active Development) 
 - Collaborate with 2 senior software engineers to build and maintain Open API specs, controllers and services in a MVC backend for the UL Travel App project used by 100+ library employees.
 - Building the storage feature for UL Travel App by connecting it to an Azure Blob Storage Service and auto-archiving to the university’s database when requests are approved. This hybrid storage approach was built to reduce cloud storage costs and increase data availability 
-- Built fronted components using shadcn, typescript & next.js and and wiring them to the backend services.
+- Built frontend components using shadcn, typescript & next.js and and wiring them to the backend services.
 - Built a Sandbox Backend & Database network using Api docs, MongoDB, Typescript, Docker and Postman to test endpoints.
 
 #### TOPS Asset Management Web App `Feb 2026 - Present`(V1 Live)(V2 In active Development)
