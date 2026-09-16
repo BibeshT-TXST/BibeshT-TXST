@@ -38,8 +38,7 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 
 ### Texas State University Libraries Systems Team &nbsp;·&nbsp; `Dec 2025 – Present` &nbsp;*(Internal)*
 #### Travel App Project `May 2026 - Present`(V1 in active Development) 
-- Collaborate with 2 senior software engineers to build and maintain Open API specs, controllers and services in a MVC backend for the UL Travel App project used by 100+ library employees.
-- Building the storage feature for UL Travel App by connecting it to an Azure Blob Storage Service and auto-archiving to the university’s database when requests are approved. This hybrid storage approach was built to reduce cloud storage costs and increase data availability 
+- Collaborate with 2 senior software engineers to build and maintain Open API specs, controllers and services in a MVC backend for the UL Travel App project used by 100+ library employees. 
 - Built frontend components using shadcn, typescript & next.js and and wiring them to the backend services.
 - Built a Sandbox Backend & Database network using Api docs, MongoDB, Typescript, Docker and Postman to test endpoints.
 
