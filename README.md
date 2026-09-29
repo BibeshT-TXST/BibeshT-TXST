@@ -62,41 +62,73 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 `TypeScript` `Next.js` `Node.js` `PostgreSQL` `MongoDB` `Azure Blob` `python` `flask` `Docker` `Docker Compose` `REST API` `MVC` `NGINX` `GitHub Actions` `Storybook` `Vitest` `Tailwind CSS` `Radix UI` `MUI` `Shad-cn` `Figma`
 
 ## Stack
- 
+
 **Programming Languages**
- 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
- 
-**Frontend**
- 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frameworks, Libraries & APIs**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
- 
-**Backend**
- 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4B5563?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-4B5563?style=flat-square)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
- 
-**Machine Learning**
- 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
- 
-**DevOps**
- 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-4B5563?style=flat-square)
+
+**Cloud**
+
+![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-232F3E?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-232F3E?style=flat-square)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-232F3E?style=flat-square)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-232F3E?style=flat-square)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat-square)
+![AWS VPC](https://img.shields.io/badge/AWS_VPC-232F3E?style=flat-square)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square)
+![Red Hat Enterprise Linux](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_RHEL-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deployment-4B5563?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+
+**AI/ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Model Training and Serving](https://img.shields.io/badge/Model_Training_and_Serving-4B5563?style=flat-square)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-4B5563?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector_Search-4B5563?style=flat-square)
+![Evaluations](https://img.shields.io/badge/Evaluations-4B5563?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+
+**Tools and Practices**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Agile Development](https://img.shields.io/badge/Agile_Development-4B5563?style=flat-square)
  
 ## A bit more
 
