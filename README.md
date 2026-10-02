@@ -130,11 +130,11 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 ![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Agile Development](https://img.shields.io/badge/Agile_Development-4B5563?style=flat-square)
  
-## A bit more
+## A bit more about me
 
 - Spent ~2 years as a research coach at the university. Helping students find what they need taught me that clear communication is its own kind of skill.
 - Former middle school math tutor. Engineering problems are usually easier (usually).
-- I go back to DSA and first principles often. Understanding code matters more than shipping fast — though both matter.
+- If I was born in the middle ages I'd be a Knight
 
 <div align="center">
 <sub><i>Atomic Commits > Atomic Habits :P</i></sub>
