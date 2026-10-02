@@ -19,8 +19,7 @@ I build systems at work and train models at home. Currently deep in Backend Arch
 
 Hi, I'm Bibesh, a Computer Science junior who is aspiring to be a Software Engineer. I love solving problems, optimizing existing solutions, improving throughput and eliminating backdoor variabilities. At TXST library I build and manage software used by the library employees. 
 
-I am focusing on AI integration, Cloud services(AWS personally, Azure at Work), Backend, Data Modeling, Data Security and  Deployment but I also love to build frontend components, sandbox  environments and unit tests. I use claude code for researching and prototyping solutions only as I strive to maintain a clean codebase, good version control practices and ship maintainable code. .
-
+I am focusing on AI integration, Cloud services(AWS personally, Azure at Work), Backend, Data Modeling, Data Security and  Deployment but I also love to build frontend components, sandbox  environments and unit tests. I use claude code for researching and prototyping solutions only as I strive to maintain a clean codebase, good version control practices and ship maintainable code.
 ## Personal Projects
 
 ### 🔬 SightX &nbsp;·&nbsp; `Feb 2026 – Present` &nbsp;·&nbsp; [Repo](https://github.com/BibeshT-TXST/SightX) &nbsp;·&nbsp; [Blog](https://darkmatterstech.blogspot.com/) (V2: AWS Migration Ongoing)
