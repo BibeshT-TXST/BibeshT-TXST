@@ -132,7 +132,7 @@ A clinical AI screening tool for **diabetic retinopathy**: A leading cause of pr
 ## A bit more about me
 
 - Spent ~2 years as a research coach at the university. Helping students find what they need taught me that clear communication is its own kind of skill.
-- Former middle school math tutor. Engineering problems are usually easier (usually).
+- Former middle school math tutor so I am battle hardened to explan stuff simply.
 - If I was born in the middle ages I'd be a Knight
 
 <div align="center">
