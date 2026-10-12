@@ -9,6 +9,6 @@ healthcare to build medical AI platforms and the underlying systems that power t
 
 ### Interested in AI, Security, Inference or Medical systems? Let's talk. <br />
 
-### linkedIn: [@Bibesh](https://www.linkedin.com/in/bibesh-timalsina-a7a9482b9/) 
+### linkedIn: [@bibesh](https://www.linkedin.com/in/bibesh-timalsina-a7a9482b9/) 
 
 ### email: timalsinabibesh747 [at] gmail (dot) com
