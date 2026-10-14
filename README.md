@@ -11,4 +11,6 @@ healthcare to build medical AI platforms and the underlying systems that power t
 
 ### linkedIn: [@bibesh](https://www.linkedin.com/in/bibesh-timalsina-a7a9482b9/) 
 
+### website: [@bibesh](https://www.bibesh-timalsina.me/)
+
 ### email: timalsinabibesh747 [at] gmail (dot) com
