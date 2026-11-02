@@ -10,4 +10,4 @@ Interested in AI, Security, Inference or Medical systems? Let's talk. <br />
 
 LinkedIn: [@bibesh](https://www.linkedin.com/in/bibesh-timalsina-a7a9482b9/) 
 
-Email: timalsinabibesh747 [at] gmail (dot) com
+Email: timalsinabibesh747 [at] gmail [dot] com
