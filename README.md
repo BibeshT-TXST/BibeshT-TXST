@@ -3,7 +3,7 @@
 # Systems Support Assistant | Computer Science Student   
 <br/>
  
-I'm a computer science student focusing in secure AI systems, observability and Learning inference engineering<br />
+I'm a computer science student focusing in secure AI systems, Security, Learning inference engineering and observability<br />
 with a parallel interest in healthtech.
 
 Interested in AI, Security, Inference or Medical systems? Let's talk. <br />
