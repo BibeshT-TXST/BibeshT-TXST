@@ -1,6 +1,6 @@
 <div align="center"> 
  
-# Systems Support Assistant | Computer Science Student   
+# Systems Support @TXST Library | Computer Science Student   
 <br/>
  
 I'm a computer science student focusing in secure AI systems, Security, Learning inference engineering and observability<br />
